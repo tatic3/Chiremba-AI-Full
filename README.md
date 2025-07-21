@@ -5,7 +5,7 @@ This directory contains the frontend application and deployment configurations f
 ## Frontend Application
 
 A modern React-based web application that provides an intuitive interface for medical image analysis.
-see img diagnosis backend : https://github.com/NyashaEysenck/chiremba-ai-backend-image-diagnosis
+see img diagnosis backend : https://github.com/tatic3/Chiremba-AI-Backend-Image-Diagnosis.git
 
 ### Features
 
